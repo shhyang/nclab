@@ -1,8 +1,11 @@
 - name: "Others"
   link: "/other"
 
-- name: "Publication"
-  link: "/publications"
+- name: "Research"
+  link: "/research"
+
+- name: "Projects"
+  link: "/projects"
 
 - name: "People"
   link: "/people"
