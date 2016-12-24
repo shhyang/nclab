@@ -1,0 +1,11 @@
+- name: "Others"
+  link: "/other"
+
+- name: "Publication"
+  link: "/publications"
+
+- name: "People"
+  link: "/people"
+
+- name: "Home"
+  link: "/"

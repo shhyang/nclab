@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+title: Network Coding Lab
+url: "https://tavimori.github.io"
+baseurl: "/netcoding"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
