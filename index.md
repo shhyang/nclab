@@ -1,2 +1,7 @@
 # Network Coding Lab Homepage
-# test2
+
+------
+
+## Introduction
+
+This is the homepage of the Network Coding Lab in CHUK(SZ). 
