@@ -2,7 +2,27 @@
 layout: default
 ---
 
-## Lorem Ipsum
+## Research
+
+### Learning theory 
+
+#### Compression and Learning 
+- Ofir David, Shay Moran, Amir Yehudayoff, "On statistical learning via the lens of compression"
+
+#### Community Recovery
+- Yuxin Chen, Govinda Kamath, Changho Suh, David Tse, "Community Recovery in Graphs with Locality"
+
+#### Ising Model 
+- Guy Bresler, Mina Karzand, "Learning a Tree-Structured Ising Model in Order to Make Predictions"
+
+### Coding theory 
+
+#### Distributed Computing
+- Songze Li, Mohammad Ali Maddah-Ali, A. Salman Avestimehr, "Coded MapReduce"
+- Songze Li, Mohammad Ali Maddah-Ali, Qian Yu, A. Salman Avestimehr, "A Fundamental Tradeoff between computation and communication in distributed computing"
+
+#### BATS Codes
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget mi malesuada neque consequat viverra eget et risus. Fusce a aliquet mi. Duis elementum, mauris eu tempus ornare, nisl magna venenatis lacus, eget euismod arcu nibh vitae eros. Pellentesque in lacinia leo. Nam cursus sem ligula, sit amet facilisis magna aliquam a. Vestibulum vitae dolor vel dui pellentesque egestas. Phasellus eu congue felis, dapibus interdum quam. Duis ut velit justo. Maecenas mi ex, maximus eget ornare quis, hendrerit dapibus urna. Curabitur ut sapien lacinia, pellentesque lectus consectetur, porta urna. Phasellus sagittis leo nec magna venenatis hendrerit. Phasellus a hendrerit turpis. Sed a sagittis turpis, eget efficitur dui. Morbi dictum, sapien eget pharetra accumsan, libero arcu auctor mauris, sed egestas magna velit at erat. Donec in accumsan lacus. In eget risus urna.
 
