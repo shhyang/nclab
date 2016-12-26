@@ -7,12 +7,14 @@ layout: default
 ### Upcoming topics:
 
 (ref Haiwen's email on 17 Dec for the following topics)
+
 - compression and learning.
 - community recovery.
 - graph model(Ising Model).
 - facility location problem 
 
 (ref to netcod papers for the following topics)
+
 - Benefits of Opportunistic Routing, Implicit Acknowledgments, and Network Coding on a Linear Broadcast Network, NetCod'17 (Jun)
 - The Benefit of Limited Feedback to Generation-Based Random Linear Network Coding in Wireless Broadcast, NetCod'17 (Jun)
 - Oblivious transmission, and "The Capacity of Symmetric Private Information Retrieval" at NetCod'17
