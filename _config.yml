@@ -1,11 +1,22 @@
+# Site settings
 title: Network Coding Lab
-url: "https://shhyang.github.io"
-baseurl: "/netcoding"
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a short description for NCL's webpage.
+baseurl: "/netcoding/" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Undef
+github_username:  shhyang
 
+# Build settings
 markdown: kramdown
 
-tracking_id: #
+# Other options
+permalink: blog/:year/:month/:title
+job.title: "undef"
+excerpt_separator: "<!--more-->"
 
-sass:
-    style: compressed
-    sass_dir: _sass
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
