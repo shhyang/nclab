@@ -3,7 +3,7 @@ title: Network Coding Lab
 email: shenghao.yang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Copyright © 2016 Network Coding Lab, The Chinese University of Hong Kong, Shenzhen. All Rights Reserved. Disclaimer | Privacy Policy
-baseurl: "/netcoding/" # the subpath of your site, e.g. /blog/
+baseurl: "/netcoding" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: Undef
 github_username:  shhyang
