@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network Coding Lab</title>
-    <description>Copyright © 2016 Network Coding Lab, The Chinese University of Hong Kong, Shenzhen. All Rights Reserved. Disclaimer | Privacy Policy
-</description>
+    <description></description>
     <link>http://localhost:4000/netcoding/</link>
     <atom:link href="http://localhost:4000/netcoding/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Dec 2016 13:03:56 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 13:03:56 +0800</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2016 11:03:57 +0800</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2016 11:03:57 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
