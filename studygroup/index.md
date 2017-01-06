@@ -24,8 +24,12 @@ layout: default
   - https://cn.ifn.et.tu-dresden.de/research/areas/, check out the recent works about network coding implementations in europe. 
   - Network Coding to Provide Reliable Communications in Powerline. This was not presented at NetCod'17, but we may check out their works.
 - Network function computation, graph entropy and coded distrubuted computing. 
+  - On Computation Rates for Arithmetic Sum, Arxiv.
+  - Sum-networks from incidence structures: construction and capacity analysis, Arxiv.
+
 - Joint FEC across Multiple Streams with Different Playout Deadlines, NetCod'17.  This may be related to the work of Cheuk Ting Li.
 
 ### Previously discussed topics:
 
+- "Recent Works about Resource Allocation ", Presentor: **Liu Yu**; Time: 2017-01-03.
 - "Coded MapReduce and further work"\[[ppt](CodedDistributedComputing.pptx)\], Presentor: **Cao Haiwen**; Time: 2016-12-23.
