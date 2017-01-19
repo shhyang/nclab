@@ -27,3 +27,7 @@ layout: default
 
 - Joint FEC across Multiple Streams with Different Playout Deadlines, NetCod'17.  This may be related to the work of Cheuk Ting Li.
 
+(ref to Prof.Yang's email on 19 Jan for the following papers)
+
+- On Characterizations of Markov Random Fields and Subfields (Yanyan)
+
