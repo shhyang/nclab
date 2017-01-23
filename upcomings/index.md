@@ -31,3 +31,8 @@ layout: default
 
 - On Characterizations of Markov Random Fields and Subfields (Yanyan)
 
+(Some papers about clustering)
+
+- Info-Clustering: A Mathematical Theory for Data Clustering
+- Clustering by Multivariate Mutual Information under Chow–Liu Tree Approximation
+
