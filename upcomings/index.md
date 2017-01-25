@@ -37,6 +37,7 @@ layout: default
 - Clustering by Multivariate Mutual Information under Chow–Liu Tree Approximation
 
 (ref to Prof.Yang's email on 24 Jan about wireless networking)
+
 - Ian F. Akyildiz and Xudong Wang "A survey on wireless mesh networks"
 - Katayoun Sohrabi, Jay Gao, Vishal Ailawadhi, and Gregory J. Pottie "Protocols for Self-Organization of a Wireless Sensor Network"
 - I.F. Akyildiz, W. Su, Y. Sankarasubramaniam and E. Cayirci "Wireless sensor networks: a survey"
