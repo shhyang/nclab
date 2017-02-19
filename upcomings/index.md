@@ -22,14 +22,14 @@ layout: default
   - https://cn.ifn.et.tu-dresden.de/research/areas/, check out the recent works about network coding implementations in europe. 
   - Network Coding to Provide Reliable Communications in Powerline. This was not presented at NetCod'17, but we may check out their works.
 - Network function computation, graph entropy and coded distrubuted computing. 
-  - On Computation Rates for Arithmetic Sum, Arxiv.
+  - ~~On Computation Rates for Arithmetic Sum, Arxiv.~~
   - Sum-networks from incidence structures: construction and capacity analysis, Arxiv.
 
 - Joint FEC across Multiple Streams with Different Playout Deadlines, NetCod'17.  This may be related to the work of Cheuk Ting Li.
 
 (ref to Prof.Yang's email on 19 Jan for the following papers)
 
-- On Characterizations of Markov Random Fields and Subfields (Yanyan)
+- ~~On Characterizations of Markov Random Fields and Subfields (Yanyan)~~
 
 (Some papers about clustering)
 
