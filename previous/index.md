@@ -4,6 +4,7 @@ layout: default
 
 ## Previously discussed topics:
 
+- "Storage-Retrieval-Repair Cost Trade-off in DSS", Presentor: **Liu Yu**; Time: 2017-02-22.
 - "On Characterizations of Markov Random Fields and Subfields", Presentor: **Dong Yanyan**; Time: 2017-02-18.
 - "On Computation Rates for Arithmetic Sum", Presentor: **Cao Haiwen**; Time: 2017-02-18.
 - "About Zigbee Networking Implementation and its details", Presentor: **He Zhiming**; Time: 2017-01-13.
