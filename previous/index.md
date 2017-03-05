@@ -4,6 +4,7 @@ layout: default
 
 ## Previously discussed topics:
 
+- "Some further study (momery channel) on BATS codes", Presentor: **Ma Jun**; Time: 2017-03-04.
 - "Storage-Retrieval-Repair Cost Trade-off in DSS", Presentor: **Liu Yu**; Time: 2017-02-22.
 - "On Characterizations of Markov Random Fields and Subfields", Presentor: **Dong Yanyan**; Time: 2017-02-18.
 - "On Computation Rates for Arithmetic Sum", Presentor: **Cao Haiwen**; Time: 2017-02-18.
