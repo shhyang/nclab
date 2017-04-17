@@ -1,7 +1,7 @@
 # Site settings
 title: Network Coding Study Group
 email: shenghao.yang@gmail.com
-baseurl: "/netcoding" # the subpath of your site, e.g. /blog/
+baseurl: "/nclab" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: Undef
 github_username:  shhyang
