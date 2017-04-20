@@ -2,23 +2,32 @@
 layout: default
 ---
 
-## People in the lab
+## Organization
 
-### Boss
+Initially, NCLab will consist of three full-time members of CUHK(SZ), four adjunct professors from INC, CUHK and seven students. Prof. Shenghao Yang will be the Director and Prof. Raymond W. Yeung (Co-Director of INC) will be the Honorary Director. 
 
-#### Mr.XYZ
+### Full-time members:
 
-Hello, I am Mr.XYZ.
-Fusce tincidunt erat posuere dui lacinia egestas. Nulla velit nisi, consequat eget diam in, consectetur lobortis lacus. Suspendisse congue vitae tortor a viverra. Fusce eu nunc in est tincidunt aliquam ut a sapien. Fusce consectetur tempor tristique. Ut imperdiet finibus scelerisque. Praesent nec accumsan enim, ultricies tristique odio. Nam in ante id tortor scelerisque posuere. Donec quis turpis id neque sagittis lobortis sed at lectus.
+- Shenghao YANG (杨升浩),Research Assistant Prof., Director of NCLab
+- Zhiming HE (何志明), Junior Research Assistant
+- Yang WANG (汪洋), Officer, Research Management 
 
-### Group1
+### Adjunct Professors from INC:
 
-#### Someone
+- Raymond W. YEUNG (杨伟豪), Professor, Honorary Director of NCLab
+- Jack ZHU (朱健), Professor of Practice
+- Kenneth W. SHUM (沈颖祺), Associate Professor
+- Chung CHAN (陈聪), Assistant Professor
 
-Hello, I am someone. I'm happy.
-Fusce tincidunt erat posuere dui lacinia egestas. Nulla velit nisi, consequat eget diam in, consectetur lobortis lacus. Suspendisse congue vitae tortor a viverra. Fusce eu nunc in est tincidunt aliquam ut a sapien. Fusce consectetur tempor tristique. Ut imperdiet finibus scelerisque. Praesent nec accumsan enim, ultricies tristique odio. Nam in ante id tortor scelerisque posuere. Donec quis turpis id neque sagittis lobortis sed at lectus.
 
-#### Someone2
+### Students:
 
-Hello, I am someone2. I'm happy.
-Fusce tincidunt erat posuere dui lacinia egestas. Nulla velit nisi, consequat eget diam in, consectetur lobortis lacus. Suspendisse congue vitae tortor a viverra. Fusce eu nunc in est tincidunt aliquam ut a sapien. Fusce consectetur tempor tristique. Ut imperdiet finibus scelerisque. Praesent nec accumsan enim, ultricies tristique odio. Nam in ante id tortor scelerisque posuere. Donec quis turpis id neque sagittis lobortis sed at lectus.
+- Jun MA (马骏), PhD student
+- Haiwen CAO (曹海文), visiting PhD student
+- Yu LIU (刘瑜), visiting PhD student
+- Yanyan DONG (董岩岩), visiting student
+- Licheng MAO (毛立成), undergraduate research assistant
+- Xuan HUANG (黄轩) , undergraduate research assistant
+- Yuezhan TAO (陶岳瞻), undergraduate research assistant
+
+

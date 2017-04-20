@@ -1,5 +1,5 @@
 # Site settings
-title: Network Coding Study Group
+title: Network Coding Lab
 email: shenghao.yang@gmail.com
 baseurl: "/nclab" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
