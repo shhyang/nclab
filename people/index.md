@@ -8,16 +8,16 @@ Initially, NCLab will consist of three full-time members of CUHK(SZ), four adjun
 
 ### Full-time members:
 
-- Shenghao YANG (杨升浩),Research Assistant Prof., Director of NCLab
+- [Shenghao YANG](https://shhyang.github.io/) (杨升浩),Research Assistant Prof., Director of NCLab
 - Zhiming HE (何志明), Junior Research Assistant
 - Yang WANG (汪洋), Officer, Research Management 
 
 ### Adjunct Professors from INC:
 
-- Raymond W. YEUNG (杨伟豪), Professor, Honorary Director of NCLab
+- [Raymond W. YEUNG](https://www.ie.cuhk.edu.hk/people/raymond.shtml) (杨伟豪), Professor, Honorary Director of NCLab
 - Jack ZHU (朱健), Professor of Practice
-- Kenneth W. SHUM (沈颖祺), Associate Professor
-- Chung CHAN (陈聪), Assistant Professor
+- [Kenneth W. SHUM](http://www.ie.cuhk.edu.hk/people/wkshum.shtml) (沈颖祺), Associate Professor
+- [Chung CHAN](http://home.ie.cuhk.edu.hk/~cchan/) (陈聪), Assistant Professor
 
 
 ### Students:
@@ -26,7 +26,7 @@ Initially, NCLab will consist of three full-time members of CUHK(SZ), four adjun
 - Haiwen CAO (曹海文), visiting PhD student
 - Yu LIU (刘瑜), visiting PhD student
 - Yanyan DONG (董岩岩), visiting student
-- Licheng MAO (毛立成), undergraduate research assistant
+- Licheng MAO (毛力成), undergraduate research assistant
 - Xuan HUANG (黄轩) , undergraduate research assistant
 - Yuezhan TAO (陶岳瞻), undergraduate research assistant
 
