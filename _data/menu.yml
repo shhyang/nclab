@@ -9,11 +9,9 @@
   #       subhref: "/"
   #     - subtitle: "Research 2"
   #       subhref: "/"
-- title: "UpComings"
-  href: "/upcomings/"
-  
-- title: "Previous"
-  href: "/previous/"   
+
+- title: "StudyGroup"
+  href: "/studygroup/"
 
 - title: "Recruit"
   href: "/recruit/"
