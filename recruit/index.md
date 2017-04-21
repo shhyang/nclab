@@ -8,6 +8,7 @@ To support the initial research of NCLab, we would request a temporary office/la
 + 2 Associate Research Fellows and/or Senior Engineers
 + 2 part-time Research Fellows
 + 2~4 Research Assistants anld Engineers 
+		
 The ballpark budget for the first 1.5 years is estimated to be around RMB 2.5 million, for the research staff, office/facilities setup, and miscellaneous costs, where only 1.5 million can be supported using the existing funding of the team from Shenzhen KCW and NSFC.
 
 As a summary, we have the following space and funding request from CUHK(SZ):
