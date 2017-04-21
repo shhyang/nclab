@@ -21,7 +21,7 @@ excerpt_separator: "<!--more-->"
 
 
 
-colloctions:
+collections:
   studygroup:
     output: true 
     permalink: /studygroup/:path/
