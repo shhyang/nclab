@@ -35,8 +35,8 @@ layout: default
 
 
 
-[upcomings_page]:{{ site.baseurl }}{% link _studygroups/upcomings.md %}
+[upcomings_page]:{{ site.baseurl }}{% link _studygroup/upcomings.md %}
 
-[previous_page]:{{ site.baseurl }}{% link _studygroups/previous.md %}
+[previous_page]:{{ site.baseurl }}{% link _studygroup/previous.md %}
 
 
