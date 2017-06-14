@@ -4,6 +4,11 @@ layout: default
 
 ## StudyGroup
 
+- ###[Upcomings][upcomings_page]
+- ###[Previous][previous_page]
+
+
+
 ### Learning theory 
 
 #### Compression and Learning
@@ -24,8 +29,6 @@ layout: default
 #### BATS Codes
 
 
-- [Upcomings][upcomings_page]
-- [Previous][previous_page]
 
 
 
