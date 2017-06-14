@@ -42,7 +42,7 @@ layout: default
 - Katayoun Sohrabi, Jay Gao, Vishal Ailawadhi, and Gregory J. Pottie "Protocols for Self-Organization of a Wireless Sensor Network"
 - I.F. Akyildiz, W. Su, Y. Sankarasubramaniam and E. Cayirci "Wireless sensor networks: a survey"
 
-
+(ref to Prof.Yang on 14 Jun 2017)
 - "Growth codes: Intermediate performance analysis and application to video"
 - "New Fountain Codes With Improved Intermediate Recovery Based on Batched Zigzag Coding"
 - "Sparse Random Linear Network Coding With Precoded Band Codes"
