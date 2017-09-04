@@ -36,18 +36,18 @@ layout: default
 - Yanyan DONG (董岩岩), visiting student  
 <img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG18.jpeg" width="20%" />
 - Licheng MAO (毛力成), undergraduate research assistant  
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/DSC_7397.JPG" width="20%" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/DSC_7397.JPG" width="40%" />
 - Xuan HUANG (黄轩) , undergraduate research assistant  
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/DSC_0333.JPG" width="20%" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/DSC_0333.JPG" width="40%" />
 - Yuezhan TAO (陶岳瞻), undergraduate research assistant  
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG14.jpeg" width="20%" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG14.jpeg" width="40%" />
 - Sheng JIN (金盛), undergraduate research assistant  
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG13.jpeg" width="20%" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG13.jpeg" width="40%" />
 - Yuanfei GUO (郭芫菲), undergraduate research assistant  
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG110.jpeg" width="20%" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG110.jpeg" width="40%" />
 - Xianggang YU (余湘港), undergraduate research assistant  
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/DSC_7389.JPG" width="20%" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/DSC_7389.JPG" width="40%" />
 - Jie WANG (王捷), undergraduate research assistant  
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG19.jpeg" width="20%" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG19.jpeg" width="40%" />
 - Anlan HE (何安澜), undergraduate research assistant
 - Zhengxiang ZHOU (周政翔), undergraduate research assistant  
