@@ -4,7 +4,7 @@ layout: default
 
 ## Organization
 
-### Full-time members:
+### Full-time members:![]()
 
 - [Shenghao YANG](https://shhyang.github.io/) (杨升浩),Research Assistant Professor<br/><br/>  
 <img src="http://github.com/shhyang/nclab/raw/master/people/photos/image2.png" width="25%" /><br/><br/>
