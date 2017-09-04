@@ -6,10 +6,11 @@ layout: default
 
 ### Full-time members:
 
-- [Shenghao YANG](https://shhyang.github.io/) (杨升浩),Research Assistant Professor
+- [Shenghao YANG](https://shhyang.github.io/) (杨升浩),Research Assistant Professor  
 
-
-![image](http://github.com/shhyang/nclab/raw/master/people/photos/qqtu_pian_20170113145501_0.png)
+<center>
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/qqtu_pian_20170113145501_0.png" width="25%" height="25%" />
+</center>
 - Yang WANG (汪洋), Officer, Research Management
 
 ### Visiting Professors from INC:
