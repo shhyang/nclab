@@ -10,8 +10,5 @@
   #     - subtitle: "Research 2"
   #       subhref: "/"
 
-- title: "StudyGroup"
-  href: "/studygroup/"
-
 - title: "Recruit"
   href: "/recruit/"
