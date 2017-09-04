@@ -7,9 +7,9 @@ layout: default
 ### Full-time members:
 
 - [Shenghao YANG](https://shhyang.github.io/) (杨升浩),Research Assistant Professor  
-<center>
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/image2.png" width=256 height=256 />
-</center>
+
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/image2.png" width=256 height=256/>
+
 
 - Yang WANG (汪洋), Officer, Research Management
 
