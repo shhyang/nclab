@@ -7,7 +7,6 @@ layout: default
 ### Full-time members:
 
 - [Shenghao YANG](https://shhyang.github.io/) (杨升浩),Research Assistant Professor
-- Zhiming HE (何志明), Junior Research Assistant
 - Yang WANG (汪洋), Officer, Research Management
 
 ### Visiting Professors from INC:
@@ -21,9 +20,13 @@ layout: default
 ### Students:
 
 - Jun MA (马骏), PhD student
-- Haiwen CAO (曹海文), visiting PhD student
-- Yu LIU (刘瑜), visiting PhD student
 - Yanyan DONG (董岩岩), visiting student
 - Licheng MAO (毛力成), undergraduate research assistant
 - Xuan HUANG (黄轩) , undergraduate research assistant
 - Yuezhan TAO (陶岳瞻), undergraduate research assistant
+- Sheng JIN (金盛), undergraduate research assistant
+- Yuanfei GUO (郭芫菲), undergraduate research assistant
+- Xianggang YU (余湘港), undergraduate research assistant
+- Jie WANG (王捷), undergraduate research assistant
+- Anlan HE (何安澜), undergraduate research assistant
+- Zhengxiang ZHOU (周政翔), undergraduate research assistant
