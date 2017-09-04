@@ -7,8 +7,7 @@ layout: default
 ### Full-time members:
 
 - [Shenghao YANG](https://shhyang.github.io/) (杨升浩),Research Assistant Professor  
-
-<img src="http://github.com/shhyang/nclab/raw/master/people/photos/image2.png" width="256" height="256" />
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/image2.png" width="80%" height="80%" />
 
 
 - Yang WANG (汪洋), Officer, Research Management
@@ -16,11 +15,16 @@ layout: default
 ### Visiting Professors from INC:
 
 - [Raymond W. YEUNG](https://www.ie.cuhk.edu.hk/people/raymond.shtml) (杨伟豪), Professor, Honorary Director of NCLab  
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG30.jpeg" width="80%" height="80%" />
 
 - Jack ZHU (朱健), Professor of Practice  
-- [Kenneth W. SHUM](http://www.ie.cuhk.edu.hk/people/wkshum.shtml) (沈颖祺), Associate Professor
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/image4.jpeg" width="80%" height="80%" />
 
-- [Chung CHAN](http://home.ie.cuhk.edu.hk/~cchan/) (陈聪), Assistant Professor
+- [Kenneth W. SHUM](http://www.ie.cuhk.edu.hk/people/wkshum.shtml) (沈颖祺), Associate Professor  
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG29.jpeg" width="80%" height="80%" />
+
+- [Chung CHAN](http://home.ie.cuhk.edu.hk/~cchan/) (陈聪), Assistant Professor  
+<img src="http://github.com/shhyang/nclab/raw/master/people/photos/WechatIMG28.jpeg" width="80%" height="80%" />
 
 
 
