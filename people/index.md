@@ -30,4 +30,4 @@ layout: default
 - Jie WANG (王捷), undergraduate research assistant
 - Anlan HE (何安澜), undergraduate research assistant
 - Zhengxiang ZHOU (周政翔), undergraduate research assistant
-![image](nclab/people/photos/timg.jpeg)
+![image](http://github.com/shhyang/nclab/raw/master/people/photos/timg.jpeg)
